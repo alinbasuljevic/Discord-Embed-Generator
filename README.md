@@ -3,5 +3,6 @@ Simple Discord Bot for sending colorful embeds to specific channels (customized 
 
 Paid Project for #Skrufy0001 (Discord Tag)
 
-# How to Run
+# Setup Instructions
+* Install dependencies required.
 ![](/instructions.JPG)
