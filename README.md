@@ -4,4 +4,4 @@ Simple Discord Bot for sending colorful embeds to specific channels (customized 
 Paid Project for #Skrufy0001 (Discord Tag)
 
 # How to Run
-![Image of Instructions]("C:\Users\resel\Pictures\instructions.GIF")
+![](/instructions.JPG)
